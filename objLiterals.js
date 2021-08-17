@@ -9,4 +9,5 @@ function skier(name, sound) {
     };
 }
 
+console.log(skier("Bruno", "boo"));
 console.log(skier("Sandy", "woo").powerYell());
