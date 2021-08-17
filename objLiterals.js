@@ -9,4 +9,4 @@ function skier(name, sound) {
     };
 }
 
-console.log(skier("Sandy", "woo"));
+console.log(skier("Sandy", "woo").powerYell());
